@@ -18,9 +18,7 @@ body {
   justify-content: space-around;
   align-items: center;
   padding-top: 100px;
-  background-image: url(../images/bgtile.png);
-  background-size: cover;
-  background-position: top;
+  background: linear-gradient(#1c5380 40%, transparent 40%) no-repeat;
 }
 
 .logo-login {
@@ -33,7 +31,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #2f80c2;
+  background-image: linear-gradient(#5484ac, #376891 80%);
   border: #06365f solid 1px;
   width: 80px;
   height: 10px;
